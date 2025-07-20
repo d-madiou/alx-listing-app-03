@@ -66,7 +66,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -88,7 +88,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "15",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -110,7 +110,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "20",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -132,7 +132,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -154,7 +154,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "10",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -176,7 +176,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "25",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -198,7 +198,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -220,7 +220,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "40",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -242,7 +242,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "50",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -264,7 +264,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -286,7 +286,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "35",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -308,7 +308,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -330,7 +330,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "20",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -352,7 +352,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "25",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -374,7 +374,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "30",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -396,7 +396,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -418,7 +418,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "60",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   },
   {
@@ -440,7 +440,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
       discount: "",
       id: undefined,
       location: undefined,
-      imageUrl: undefined,
+      imageUrl: "",
       title: ""
   }
 ];
